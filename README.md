@@ -1,5 +1,5 @@
 # Artis
-[Link to Demo](https://github.com/sohbr/artis/wiki/_new)
+[Link to Demo](https://nyxinu.github.io/artis_splash_page/)
 
 Artis is a cross platform mobile application for connecting professionals to customers who want quality at a prices that works for them.
 
